@@ -1,0 +1,11 @@
+class StageTI {
+	texture = "gglaw_landrover\data\support\fara_ti.paa";
+};
+ambient[] = {3, 3, 3, 3};
+diffuse[] = {1, 1, 1, 1};
+forcedDiffuse[] = {0, 0, 0, 0};
+emmisive[] = {90000, 75000, 60000, 1};
+specular[] = {0, 0, 0, 1};
+specularPower = 500;
+PixelShaderID = "Normal";
+VertexShaderID = "Basic";
